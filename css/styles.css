@@ -21,6 +21,9 @@
 .align-center{
     align-items: center;
 }
+.center-margin{
+    margin: 0 auto;
+}
 
 
 
@@ -52,6 +55,9 @@
     object-fit: cover;
     background: rgba(39,62,84,0.82);
     filter: sepia(100%) saturate(300%) brightness(35%) hue-rotate(230deg);
+}
+.image2{
+    display:none
 }
 .hero{
     width: 85%;
@@ -97,7 +103,13 @@
         flex-direction: column-reverse
     }
     .image1{
-        width: 100%;
+        display:none;
+    }
+    .image2{
+         object-fit: cover;
+         background: rgba(39,62,84,0.82);
+         filter: sepia(100%) saturate(300%) brightness(35%) hue-rotate(230deg);
+         width: 100%;
     }
     .card-left{
         width: 100%;
