@@ -104,9 +104,13 @@
         text-align: center;
     }
 }
+@media screen and (max-width: 750px){
+    .card-container{
+        width: 90%;
+    }
 @media screen and (max-width: 500px){
     :root{
-        font-size: 9px;
+        font-size: 11.5px;
     }
     .sub-heading{
         font-size: 1.4rem;
