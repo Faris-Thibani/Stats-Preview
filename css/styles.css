@@ -110,6 +110,7 @@
          background: rgba(39,62,84,0.82);
          filter: sepia(100%) saturate(300%) brightness(35%) hue-rotate(230deg);
          width: 100%;
+         display:block;
     }
     .card-left{
         width: 100%;
