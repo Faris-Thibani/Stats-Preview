@@ -84,7 +84,7 @@ Looking forward to more learning!
 
 ### Useful resources
 
-- Styling Lit Items (https://www.w3schools.com/css/css_list.asp)
+- Styling List Items (https://www.w3schools.com/css/css_list.asp)
 - Mix-blend-mode (https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)
 
 ## Author
